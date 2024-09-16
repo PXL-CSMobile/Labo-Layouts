@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Layouts.GridPage"
              Title="GridPage">
-    <Grid ColumnSpacing="5" RowSpacing="20">
+    <Grid ColumnSpacing="5" RowSpacing="20" Padding="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
